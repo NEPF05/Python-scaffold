@@ -10,4 +10,4 @@ Digamos hello.py
 test_hello.py
 ## Hacer ambiente virtual
 
-
+Primero, recordamos que ctrl+l limpia la pantalla
